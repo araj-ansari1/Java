@@ -1,0 +1,16 @@
+public class FirstActivity
+{
+
+	public static void main(String args[])
+	{
+
+		filal int a=10;
+		System.out.println("a="+a);
+		
+		//a=20;
+		//System.out.println("a="+a);
+
+	}
+
+
+}
